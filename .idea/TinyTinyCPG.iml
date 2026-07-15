@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/data" />
+      <excludeFolder url="file://$MODULE_DIR$/data/emg/(Advanced Science) Nanogenerator Neuromodulation to Enable Locomotion Rehabilitation for Spinal Cord Injury via Epidural Electrical Stimulation" />
+      <excludeFolder url="file://$MODULE_DIR$/data/emg/(Dandi) high-resolution multichannel EMG recordings with 3D motion tracking during treadmill locomotion" />
+      <excludeFolder url="file://$MODULE_DIR$/data/emg/(Nature) Multi-pronged neuromodulation intervention engages the residual motor circuitry to facilitate walking in a rat model of spinal cord injury" />
+      <excludeFolder url="file://$MODULE_DIR$/data/other/(Experimental Neurology) Spinal control of locomotion before and after spinal cord injury" />
+    </content>
+    <orderEntry type="jdk" jdkName="/home/t0kgw/miniconda3/envs/ttCPG WSL (Ubuntu): (null)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
